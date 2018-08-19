@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Diction</string>
+    <string name="desc">Data sedang dimuat, ini hanya diperlukan saat pertama kali aplikasi dijalanakan</string>
+    <string name="translate">Translate</string>
+    <string name="eng">English -> Bahasa</string>
+    <string name="idn">Bahasa -> English</string>
 </resources>
