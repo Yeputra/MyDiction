@@ -4,4 +4,5 @@
     <string name="translate">Translate</string>
     <string name="eng">English -> Bahasa</string>
     <string name="idn">Bahasa -> English</string>
+    <string name="app_first_run">First Run</string>
 </resources>

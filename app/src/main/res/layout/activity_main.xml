@@ -7,28 +7,6 @@
     android:orientation="vertical"
     tools:context=".activity.MainActivity">
 
-    <LinearLayout
-        android:id="@+id/lv_search"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_gravity="center">
-
-
-        <EditText
-            android:id="@+id/search"
-            android:layout_width="250dp"
-            android:layout_height="wrap_content"
-            android:hint="@string/translate"/>
-
-        <Button
-            android:id="@+id/btn_search"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/translate"/>
-
-    </LinearLayout>
-
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rv_kamus"
         android:layout_width="match_parent"
